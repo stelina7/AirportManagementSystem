@@ -4,7 +4,7 @@ Airport Management System
 2. Description of the Project Topic
 Aim of the System
 The aim of the Airport Management System is to efficiently manage and coordinate the main operations of an airport. The system is designed to handle flight scheduling, passenger management, staff coordination, ticketing, and airport services in an integrated and organized way. It aims to improve operational efficiency, reduce errors, enhance security, and provide a better experience for passengers and airport staff.
-User Levels
+3. User Levels
 1.Administrator
 Full access to the system
 Manage users and roles
