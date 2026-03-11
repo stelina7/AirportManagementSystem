@@ -12,22 +12,22 @@ The aim of the Airport Management System is to efficiently manage and coordinate
 3. User Levels
    
 1.Administrator
-Full access to the system
-Manage users and roles
-Add/edit/delete flights, airlines, gates, and schedules
-Generate reports
+Responsible for overall system configuration and management. The administrator manages user accounts, assigns permissions and roles, maintains system settings, and oversees the correct functioning of the system.
 
-2.Airport Staff
-Manage passenger check-in
-Update flight status (delayed, boarding, departed, cancelled)
-Assign gates and manage boarding
+2. Operations Staff
+Responsible for operational planning and coordination. This role manages gate and stand allocation, oversees flight scheduling, and monitors operational data through the Airport Operational Database.
 
-3.Airline Staff
-Manage flights belonging to their airline
-Update passenger lists
-Manage ticket and seat allocation
 
-4.Passengers (Limited Access)
-View flight information
-Check booking details
-View departure/arrival times and gate information
+3.Ground Handling Staff
+Manages activities related to aircraft services on the ground. Responsibilities include flight handling, baggage management, apron operations, and coordination with airline and airport staff during aircraft arrival and departure.
+
+4.Airline Staff
+Handles airline-related services such as passenger check-in, boarding procedures, ticket validation, and seat allocation. They also manage passenger lists for their airline flights.
+
+5.Security Staff
+
+Ensures airport safety and compliance with security regulations. Responsibilities include access control, surveillance monitoring, passenger and staff security checks, and maintaining overall airport safety.
+
+6.Maintenance Staff
+
+Responsible for maintaining airport infrastructure and equipment. Tasks include asset management, equipment maintenance, repair operations, and facility management.
