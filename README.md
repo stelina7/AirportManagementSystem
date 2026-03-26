@@ -31,3 +31,15 @@ Ensures airport safety and compliance with security regulations. Responsibilitie
 6.Maintenance Staff
 
 Responsible for maintaining airport infrastructure and equipment. Tasks include asset management, equipment maintenance, repair operations, and facility management.
+
+7. Finance Staff
+
+Responsible for managing the financial operations of the airport. This includes handling billing and invoicing for airport services, tracking payments from airlines and passengers, managing service fees, and generating financial reports.
+
+8. Human Resources (HR) Staff
+
+Responsible for managing employee-related processes. This includes maintaining employee records, managing staff schedules and shifts, tracking attendance, and ensuring staff training and certification compliance.
+
+9. Asset Management Staff
+
+Responsible for managing airport assets such as equipment, vehicles, and IT systems. This role ensures proper asset registration, tracking, allocation, and lifecycle management to support efficient airport operations.
